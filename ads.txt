@@ -1,10 +1,1 @@
-<script type="text/javascript">
-	atOptions = {
-		'key' : '9e911fe260d7fd6db0270d3cbc2a6573',
-		'format' : 'iframe',
-		'height' : 250,
-		'width' : 300,
-		'params' : {}
-	};
-</script>
-<script type="text/javascript" src="//www.highperformanceformat.com/9e911fe260d7fd6db0270d3cbc2a6573/invoke.js"></script>
+
